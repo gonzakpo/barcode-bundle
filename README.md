@@ -20,22 +20,22 @@ Features:
 Add SGKBarcodeBundle by running the command:
 ```sh
 // Symfony version < 2.7
-$ php composer.phar require sgk/barcode-bundle:~1.0
+$ php composer.phar require mwsimple/barcode-bundle:~1.0
 
 // Symfony version >= 2.7
-$ php composer.phar require sgk/barcode-bundle:~2.0
+$ php composer.phar require mwsimple/barcode-bundle:~2.0
 ```
 
 Or, add SGKBarcodeBundle to your ``composer.json``, then execute ``php composer.phar update``
 ```json
 // Symfony version < 2.7
 "require": {
-        "sgk/barcode-bundle": "~1.0"
+        "mwsimple/barcode-bundle": "~1.0"
     }
 
 // Symfony version >= 2.7
 "require": {
-        "sgk/barcode-bundle": "~2.0"
+        "mwsimple/barcode-bundle": "~2.0"
     }
 ```
 
